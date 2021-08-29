@@ -1,8 +1,4 @@
 # Machine-Learning
 Implementation of Machine Learning Algorithms
 
-Following are implemented 
-
-Simple linear regression
-Multiple linear regression
-Logistic regression
+ML_Algo.ipynb provides implementation of simple linear regression, multiple linear regression, and logistic regression.
